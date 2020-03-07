@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 752px;
+    height: 752px;
+    margin: 0 auto;
+    margin-top: 100px;
+    display: block;
+    border: 1px solid grey;
+}
+.container div {
+    height: 15px;
+}
+.fieldStyle {
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    border: 1px solid grey;
+}
+
+.thick {
+    background-color: pink;
+}
